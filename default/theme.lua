@@ -31,7 +31,7 @@ theme.border_normal = "#000000"
 theme.border_focus  = "#00eaff"
 theme.border_marked = "#baafe9"
 theme.wibar_bg = "#3a0a52"
-
+theme.bg_systray = theme.wibar_bg
 
 
 

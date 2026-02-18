@@ -29,7 +29,6 @@ mykeyboardlayout = awful.widget.keyboardlayout({
     country_codes = {"FR","AR"}
 })
 
-beautiful.bg_systray = beautiful.wibar_bg
 
 my_systray = wibox.container.background(
     wibox.widget.systray({opacity = 0.85}),
